@@ -1,0 +1,35 @@
+table, td{ background-color:#0be9eb;}
+body{background-image: url("gambar/gunung merbabu.jpg");
+	background-size:100%;}
+table{width:100%;
+    margin:1;}
+#navbar {background-color:#0be9eb;
+	width:10%;
+	text-align: center;
+        font-size:28pt;}
+#text {background-color:blue;
+	height: 10px;
+	text-align: center;
+	font-style}
+element.style{background-color:magenta;}
+.btn-daftar{padding:5px 50px;
+color:#fff;
+font-size:18;
+border-radius:2px
+border:none;
+background-color:#2ECC71;margin-bottom:18px;}
+a{color:#fff;}
+.btn-batal{padding:5px 50px;
+color:#fff;
+font-size:18;
+border-radius:2px
+border:none;
+background-color:#2ECC71;margin-bottom:18px;}
+a{color:#fff;}
+.btn-masuk{padding:5px 50px;
+color:#fff;
+font-size:18;
+border-radius:2px
+border:none;
+background-color:#2ECC71;margin-bottom:18px;}
+a{color:#fff;}
